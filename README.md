@@ -36,4 +36,4 @@ THEN I can save my initials and my score      (DONE)
 
 Code quiz demo:
 
-![demo.gif](./assets/demo.gif)
+![demo2.gif](./assets/demo.gif)
